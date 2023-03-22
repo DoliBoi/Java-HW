@@ -4,6 +4,8 @@ My Java Homework Repository showcases my Java programming skills in object-orien
 
 Employers and fellow students can use this repository to understand my technical capabilities as a Java developer. Please browse the projects and contact me with any questions or comments.
 
+For each task you can see the code, I have written, if you want to try it out, you will also need the template, which can be downloaded on the websites with assigments. 
+
 Here are assigments to each task:
 
   1. Lab01 - Kalkulačka : https://cw.fel.cvut.cz/wiki/courses/b0b36pjv/hw/01
